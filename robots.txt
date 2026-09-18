@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gcwduuufg.github.io/sitemap.xml
